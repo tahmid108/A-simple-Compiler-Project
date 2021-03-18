@@ -1,0 +1,24 @@
+,,inc a
+,,inc b
+
+getstarted:
+     integer x:
+     str w:
+     
+     w=Hello World:
+     x=5:
+     integer i = 0:
+     do~
+     while~ [i<=0]
+         y=x+i:
+     done~
+     
+     do~
+     if~ [y>5]
+     output "if condition works":
+     else~ 
+     output "else condition works":
+     done~
+	 
+	 << This is a comment >>
+finish

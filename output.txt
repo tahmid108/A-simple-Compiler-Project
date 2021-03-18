@@ -1,0 +1,53 @@
+Header is found
+Header is found
+Main Function Starts
+Integer Variable Found
+String Variable Found
+String value assigned
+Integer value assigned
+Integer Variable Found
+New Block created
+While loop found
+Block ended
+New Block created
+If condition
+Block ended
+This is a comment
+Main Function Finished
+
+
+Header Found:
+1. inc
+2. inc
+
+Keyword Found:
+1. getstarted:
+2. integer
+3. str
+4. integer
+5. do
+6. while
+7. done
+8. do
+9. if
+10. done
+11. finish
+
+Operator Found:
+1. =
+2. =
+
+Identifier Found:
+1. x
+2. w
+3. i
+
+Punctuation Found:
+1. ,,
+2. ,,
+3. :
+4. ~
+5. []
+6. ~
+7. []
+8. <<>>
